@@ -1,0 +1,35 @@
+button {
+  background-color: #4D57C6;
+  color: white;
+  padding: 8px 10px;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.destionation-column {
+  height: 300px;
+}
+
+.submit-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.submit-button, 
+.submit-button:visited {
+  background-color: #4D57C6;
+  color: white;
+  padding: 8px 10px;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.submit-button:hover, 
+.submit-button:active {
+  background-color: #2f38a0;
+}
+
+.submit-button:disabled:hover {
+  cursor: not-allowed;
+  background-color: #4D57C6;
+}

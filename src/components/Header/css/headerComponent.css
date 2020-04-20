@@ -1,0 +1,40 @@
+.logo {
+  height: 50px;
+  width: auto;
+  margin-top: 10px;
+  margin-left: 30px;
+  float: left;
+}
+
+header {
+  height: 70px;
+  background-color: #4D57C6;
+  box-shadow: 0px 7px 12px 4px #979A9A;
+  overflow: hidden;
+}
+
+.main-nav {
+  list-style: none;
+  float: right;
+  margin-right: 30px;
+}
+
+.main-nav li {
+  display: inline-block;
+}
+
+.main-nav li a {
+  display: block;
+  color: #FFF;
+  text-decoration: none;
+  font-size: larger;
+  text-transform: uppercase;
+  font-weight: 600;
+  height: 70px;
+  line-height: 70px;
+  padding: 0 20px;
+}
+
+.main-nav li a:hover {
+  background-color: #2f38a0;
+}

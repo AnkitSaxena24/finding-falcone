@@ -1,0 +1,11 @@
+footer {
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  background-color: #4D57C6;
+  color: #ffffff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 0 14px;
+}
